@@ -1,3 +1,4 @@
+sudo apt update && sudo apt install -y emacs
 echo "(setq c-default-style \"bsd\"
      c-basic-offset 8
      tab-width 8
